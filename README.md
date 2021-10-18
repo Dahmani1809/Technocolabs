@@ -16,26 +16,6 @@
 ***TYPE OF MACHINE LEARNING PROBLEM - Regression problem***
 
 ***METRICS USED - Root mean squared error, r2_score, mean absolute error***
-
-### **EXPLORATORY DATA ANALYSIS**
-
-**WORD CLOUD**
-<P> Some wordcloud examples from our exploratory data anaysis are: </p>
-
-![Apple stock](eda_images/wc_apple.png)
-
-![microsoft stock](eda_images/wc_msft.png)
-
-![Paypal stock](eda_images/wc_nvda.png)
-
-
-**PLOTS**
-
-![Stock count](eda_images/companies.png)
-
-![Sentiment count](eda_images/sentiment.png)
-
-
 **MODELLING**
 
 1.	LINEAR REGRESSION
@@ -76,5 +56,3 @@
 
 Heroku application [Click here](https://volatility-prediction.herokuapp.com/ "click here")
 
-
-Application demo video [Click here](https://drive.google.com/file/d/12qFLEKkV_4HRvPf4RekAwywken2-tlsA/view?usp=sharing "click here")
