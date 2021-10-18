@@ -50,7 +50,6 @@
 
 <p>From the analysis and comparing all the models, Linear Regression model performs best on the dataset. </p>
 
-![Linear Regression](eda_images/linresults.png)
 
 **DEPLOYMENT**
 
